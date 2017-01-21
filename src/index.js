@@ -1,16 +1,11 @@
-// TODO: Convert to todo list form
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-// TODO: Convert to todo form
-import CommentBox from './CommentBox';
+import TodoBox from './TodoBox';
 
-ReactDOM.render( <
-  CommentBox url = 'http://localhost:3002/api/comments'
-  pollInterval = {
-    2000
-  }
-  />,
+ReactDOM.render( 
+  <TodoBox 
+      url='http://localhost:3002/api/todos'
+      pollInterval={ 2000 } />,
   document.getElementById('root')
 );
