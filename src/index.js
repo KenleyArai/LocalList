@@ -1,6 +1,9 @@
+// TODO: Convert to todo list form
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+// TODO: Convert to todo form
 import CommentBox from './CommentBox';
 
 ReactDOM.render(

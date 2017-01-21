@@ -1,3 +1,6 @@
+// TODO: Clean up
+// TODO: Convert to todo list form
+
 //style.js
 const style = {
  commentBox: {

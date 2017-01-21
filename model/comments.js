@@ -1,3 +1,5 @@
+// TODO: Convert to todo form
+
 //model/comments.js
 'use strict';
 //import dependency

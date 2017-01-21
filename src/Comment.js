@@ -1,3 +1,5 @@
+// TODO: Convert to a todo items
+
 //Comment.js
 import React, { Component } from 'react';
 import style from './style';

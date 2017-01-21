@@ -1,4 +1,5 @@
-
+//TODO: Clean up so that the code is uniform
+//TODO: Convert to todo form
 //server.js
 'use strict'
 //first we import our dependencies…
